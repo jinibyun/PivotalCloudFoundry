@@ -19,3 +19,6 @@ https://docs.run.pivotal.io/
 
 5. .net native (.net framework) is not supported (.net core only supported). Also there seems to be no MS-SQL service supported.
 https://pvtl.force.com/s/question/0D50e00005EeHkKCAV/error-staging-application-found-no-compatible-cell
+
+6. /udemy
+ref: https://www.udemy.com/learning-pivotal-cloud-foundry-for-web-developers/learn/v4/overview
